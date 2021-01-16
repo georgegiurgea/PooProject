@@ -1,0 +1,6 @@
+Andrei Ion,varsta,Medina,salut,blue
+George Mihai,10,Riad,Ceva scumpt|Carti de joc,blue
+Mihaiela Popa,12,Yanbu,Avion cu pusca|Motor cu reactie|Cutit,roz
+Mihai Teordor,5,Mecca,Dulciuri|Leu de plus|Mouse pad,blue
+Maria Ioana Popescu,4,Buraydah,Dulciuri|Magneti|Carti de joc|Titirez,roz
+Sabrina Wells,5,Mecca,Glob iluminat|Casti|Caine robot|Lego|Urs de plus foarte mare|Benzi desenate,blue

@@ -1,0 +1,33 @@
+Motocileta,20
+Avion cu pusca,10
+Pusca,50
+Cutit,99
+Telefon,50
+mouse,30
+Tastatura,40
+Glob iluminat,40
+Casti,20
+Titirez,25
+Carti de joc,5
+Creioane de colorat,10
+Carioci,15
+Carte cu povesti,30
+Ursulet de plus,40
+Pisica de plus,20
+Caine robot,90
+Dulciuri,32
+Pusca cu luneta,60
+Pistol cu bile,20
+Robot de lupta,67
+Macara cu telecomanda,89
+Benzi desenate,10
+Lego,78
+Urs de plus foarte mare,92
+Fluier,6
+Trompeta,30
+MP3 player,100
+Camion cu telecomanda,40
+Magneti,18
+Leu de plus,55
+Mouse pad,10
+Ceva scumpt,110
